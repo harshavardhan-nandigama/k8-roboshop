@@ -6,4 +6,4 @@ metadata:
 spec:
   containers:
   - name: debug
-    image: harshavardhan247/mongodb:v1/debug:v1
+    image: harshavardhan247/debug:v1
